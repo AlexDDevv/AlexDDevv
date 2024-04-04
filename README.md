@@ -57,13 +57,13 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LudivineClement&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LudivineClement&hide_border=true&layout=compact&theme=tokyonight" height="160" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexDDevv&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexDDevv&hide_border=true&layout=compact&theme=tokyonight" height="160" />  
 </div>
 
 <br/> 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=LudivineClement&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlexDDevv&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" alt="streak graph"  />
 </div>
 
 <br/><br/>
