@@ -4,9 +4,11 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=4000&pause=1000&color=3A5BC7&center=true&vCenter=true&random=false&width=435&lines=Hi+There!%F0%9F%91%8B+;I'm+Alexis+Delporte!" alt="Typing SVG" /></a>
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">A passionate developer from France!</h3>
 
 <br/>
+
+<p align="center">I am Alexis, formerly a trained pharmacy technician. I self-trained for a year in my free time alongside work. Having fallen into an exciting field that drives me every day, I resigned to pursue a web development course with OpenClassrooms. Having not quenched my thirst for knowledge, I am seeking a company to undergo an alternating apprenticeship for full-stack web development with JavaScript. Hope to hear from you soon!</p>
 
 <div align="center">
  
