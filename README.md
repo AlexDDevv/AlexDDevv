@@ -16,6 +16,8 @@
  
  📚 I’m currently learning **ReactJs, Node.js and database**
 
+ 👨‍💻 All of my projects are available at my [Portfolio](https://alexis-delporte.com/)
+
 🌱 Take care of yourself by exercising, eating well and reading every day !
 
  </div>
