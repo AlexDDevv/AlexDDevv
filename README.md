@@ -18,7 +18,7 @@
 
  👨‍💻 All of my projects are available at my [Portfolio](https://alexis-delporte.com/)
 
-🌱 Take care of yourself by exercising, eating well and reading every day !
+🌱 Take care of yourself by exercising, sleeping well, eating well and reading every day!
 
  </div>
  
@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,photoshop" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,nodejs,mongodb" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,react,redux,nodejs" /><br>
 </div>
 
 <br/>
