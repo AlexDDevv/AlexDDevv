@@ -14,7 +14,7 @@
  
  🛠️ I’m currently working on **my personal projects**
  
- 📚 I’m currently learning **ReactJs, Node.js and database**
+ 📚 I’m currently learning **NextJs and database**
 
  👨‍💻 All of my projects are available at my [Portfolio](https://alexis-delporte.com/)
 
@@ -40,7 +40,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,photoshop" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,typescript,redux,nodejs" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,typescript,redux,nextjs" /><br>
 </div>
 
 <br/>
