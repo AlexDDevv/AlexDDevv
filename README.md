@@ -12,9 +12,9 @@
 
 <div align="center">
  
- 🛠️ I’m currently working on **my personal projects**
+ 🛠️ I’m currently working on **my library app**
  
- 📚 I’m currently learning **NextJs and database**
+ 📚 I’m currently learning **Next.js and database**
 
  👨‍💻 All of my projects are available at my [Portfolio](https://alexis-delporte.com/)
 
@@ -39,7 +39,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,photoshop" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,photoshop,prisma,postgresql" /><br>
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,typescript,redux,nextjs" /><br>
 </div>
 
