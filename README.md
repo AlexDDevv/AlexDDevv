@@ -39,14 +39,15 @@ I am currently working full-time (permanent contract) at the same company where 
  <hr/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,figma,photoshop,prisma,postgresql" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,typescript,redux,nextjs" /><br>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,html,css,tailwind,javascript,typescript,react" /><br>
+  <img src="https://skillicons.dev/icons?i=graphql,postgresql,nest,docker,vscode,github" />
 </div>
 
 <br/>
-<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -67,7 +68,7 @@ I am currently working full-time (permanent contract) at the same company where 
 
 <br/> 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AlexDDevv&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5&order=3" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AlexDDevv" alt="streak graph"  />
 </div>
 
 <br/><br/>
