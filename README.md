@@ -8,13 +8,15 @@
 
 <br/>
 
-<p align="center">I am Alexis, formerly a trained pharmacy technician. I self-trained for a year in my free time alongside work. Having fallen into an exciting field that drives me every day, I resigned to pursue a web development course with OpenClassrooms. Having not quenched my thirst for knowledge, I am seeking a company to undergo an alternating apprenticeship for full-stack web development with JavaScript. Hope to hear from you soon!</p>
+<p align="center">Former pharmacy technician turned web developer.
+After a self-training phase and a web development program with OpenClassrooms, I earned the Application Developer Designer degree at Wild Code School through a 15-month apprenticeship.
+I am currently working full-time (permanent contract) at the same company where I completed my apprenticeship, focusing on full-stack JavaScript development.</p>
 
 <div align="center">
  
- 🛠️ I’m currently working on **my library app**
+ 🛠️ I’m currently working on **Nuit d'Encre**
  
- 📚 I’m currently learning **Next.js and database**
+ 📚 I continue to deepen my skills in **backend development** and **UI/UX design**
 
  👨‍💻 All of my projects are available at my [Portfolio](https://alexis-delporte.com/)
 
