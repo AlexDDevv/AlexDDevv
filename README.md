@@ -86,7 +86,7 @@ Plateforme sociale de bibliothèque en ligne : gestion de lectures, critiques, r
 
 <br/> 
 
-<img align="right" width="42%" alt="Streak" src="https://streak-stats.demolab.com/?user=AlexDDevv&hide_border=true&background=00000000&stroke=00000000&ring=1C1B18&fire=1C1B18&currStreakLabel=1C1B18&sideLabels=6b6a66&currStreakNum=1C1B18&sideNums=1C1B18&dates=6b6a66"> 
+<img align="right" width="42%" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com?user=AlexDDevv&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000">
 
 <br clear="both"/> 
 <br/> 
