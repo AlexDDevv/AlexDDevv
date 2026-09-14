@@ -81,16 +81,18 @@ Plateforme sociale de bibliothèque en ligne : gestion de lectures, critiques, r
 
 ## Stats
 
-<div align="center">
-<img width="600" alt="metrics" src="https://raw.githubusercontent.com/AlexDDevv/metrics/master/metrics.classic.svg">
-</div>
+<img align="left" width="52%" alt="GitHub stats" src="https://raw.githubusercontent.com/AlexDDevv/metrics/master/metrics.classic.svg"> 
+<img align="right" width="42%" alt="Contribution calendar" src="https://raw.githubusercontent.com/AlexDDevv/metrics/master/metrics.plugin.isocalendar.svg"> 
 
-<div align="center">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=AlexDDevv&theme=tokyonight&hide_border=true&&dates=777777&background=FF000000" />
-</div>
+<br/> 
 
-<br/>
+<img align="right" width="42%" alt="Streak" src="https://streak-stats.demolab.com/?user=AlexDDevv&hide_border=true&background=00000000&stroke=00000000&ring=1C1B18&fire=1C1B18&currStreakLabel=1C1B18&sideLabels=6b6a66&currStreakNum=1C1B18&sideNums=1C1B18&dates=6b6a66"> 
 
-<div align="center">
-<sub>Disponible pour de nouvelles missions freelance, <a href="https://www.malt.fr/profile/alexisdelporte">discutons-en sur Malt</a></sub>
+<br clear="both"/> 
+<br/> 
+
+<div align="center"> 
+  <sub>Disponible pour de nouvelles missions freelance, 
+  <a href="https://www.malt.fr/profile/alexisdelporte">discutons-en sur Malt</a>
+</sub> 
 </div>
